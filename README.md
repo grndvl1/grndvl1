@@ -3,7 +3,7 @@
 <!--**grndvl1/grndvl1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 🔭 I’m currently working on ...
-GE Lighting app making improvements and trying to raise its status in the remote home lighting/device control
+iFit TV app making improvements and trying to raise its status
 
 🌱 I’m currently learning ...
 Astro-photography
