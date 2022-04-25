@@ -3,7 +3,7 @@
 <!--**grndvl1/grndvl1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 🔭 I’m currently working on ...
-iFit TV app making improvements and trying to raise its status
+Abbott Navica Covid Testing App - helping make the world a safer place
 
 🌱 I’m currently learning ...
 Astro-photography
