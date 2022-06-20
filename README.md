@@ -24,5 +24,5 @@ Guitar and songwriting
 ⚡ Fun fact: ...
 Besides being a programmer, I also race cars, play guitar and sing, write music, love astronomy and taking images of distant galaxies, have a black belt in martial arts
 
-Released firtst album with Matt Beck from Matchbox 20.  [
-](http://itunes.apple.com/album/id1589025069?ls=1&app=itunes)
+Released firtst album with Matt Beck from Matchbox 20.
+[Hug and Handshakes by John Patrick Matthews in iTunes and streaming from all platforms](http://itunes.apple.com/album/id1589025069?ls=1&app=itunes)
